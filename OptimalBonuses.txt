@@ -1,0 +1,80 @@
+Average: 97.79354506960162
+
+CSE2110c - Procedural Programming 1 --> Quizzes --> Modules
+total change: 0.6000000000000085
+module change: 3.0
+old mark: 9.0/10.0
+new mark: 10.0/10.0
+
+CSE2110c - Procedural Programming 1 --> Assignments --> Introduction to Function
+total change: 0.2777777777777857
+module change: 1.3888888888889
+old mark: 15.0/16.0
+new mark: 16.0/16.0
+
+CSE1010a - Computer Science 1 --> Quizzes --> Algorithm
+total change: 0.2232142857142918
+module change: 1.1160714285714448
+old mark: 13.0/14.0
+new mark: 14.0/14.0
+
+CSE2110c - Procedural Programming 1 --> Quizzes --> Functions Basics
+total change: 0.21052631578947967
+module change: 1.05263157894737
+old mark: 18.0/19.0
+new mark: 19.0/19.0
+
+CSE1120b - Structured Programming 2 --> Projects --> Create your own adventure
+total change: 0.1904761904761898
+module change: 0.952380952380949
+old mark: 34.0/35.0
+new mark: 35.0/35.0
+
+CSE1110b - Structured Programming 1 --> Projects --> Unit Test
+total change: 0.1666666666666714
+module change: 0.8333333333333428
+old mark: 29.5/30.0
+new mark: 30.0/30.0
+
+CSE2120c - Data Structures 1 --> Quizzes --> Quiz List - Quizzizz
+total change: 0.10526315789475404
+module change: 0.5263157894736992
+old mark: 17.0/19.0
+new mark: 18.0/19.0
+
+CSE1120b - Structured Programming 2 --> Quizzes --> Quiz 3 - Loops
+total change: 0.05847953216373014
+module change: 0.29239766081869334
+old mark: 18.0/19.0
+new mark: 19.0/19.0
+
+CSE1010a - Computer Science 1 --> Assignments --> History of Computing
+total change: 0.04411764705882604
+module change: 0.22058823529411598
+old mark: 18.0/20.0
+new mark: 19.0/20.0
+
+CSE1010a - Computer Science 1 --> Assignments --> Jiffy Pop Pseudocode
+total change: 0.03921568627451677
+module change: 0.19607843137254122
+old mark: 13.0/15.0
+new mark: 14.0/15.0
+
+CSE1110b - Structured Programming 1 --> Assignments --> Assignment 1-Variables/Operations-IO
+total change: 0.030276816609017487
+module change: 0.15138408304497375
+old mark: 16.75/17.0
+new mark: 17.0/17.0
+
+CSE1110b - Structured Programming 1 --> Assignments --> lesson3 - Practice 1
+total change: 0.029411764705884025
+module change: 0.1470588235294059
+old mark: 8.0/10.0
+new mark: 9.0/10.0
+
+CSE1120b - Structured Programming 2 --> Assignments --> Flowchart Challenge
+total change: 0.013020833333328596
+module change: 0.06510416666665719
+old mark: 29.5/30.0
+new mark: 30.0/30.0
+

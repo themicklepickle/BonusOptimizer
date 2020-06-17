@@ -1,0 +1,639 @@
+<tr>
+  <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold">Categories / Item</td>
+  <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Mark</td>
+  <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Date</td>
+  <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Weight</td>
+  <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Denominator</td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+    <span style="margin-left: 0px">Quizzes</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="95.536"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Computers</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="9"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 10,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="9"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Algorithm</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="13"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Feb 17,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="14"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+    <span style="margin-left: 0px">Assignments</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="93.431"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Computer Science</span>
+    <img src="../../viewer/images/information.png" title="area of interest to computer scientists">
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="14.5"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 07,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="15"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Hardware &amp; Software</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="26"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 08,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="26"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">History of Computing</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="15"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 29,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Jiffy Pop Pseudocode</span>
+    <img src="../../viewer/images/information.png" title="with presentation">
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="13"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Mar 11,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="15"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Algorithm</span>
+    <img src="../../viewer/images/information.png" title="physical paper hand in">
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="18"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Mar 29,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="18"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Assignment 7 - AreaBeneathCurves</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 07,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+    <span style="margin-left: 0px">Projects</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="100"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="50"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Careers in Programming</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="9"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 19,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="9"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">Career in Programming - Presentation</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="3"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 19,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+</tr>
+<tr>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+    <span style="margin-left: 40px">A Basic calculator</span>
+  </td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jan 19,  2020</td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+  <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="30"></td>
+</tr>
+
+<tbody><tr>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold">Categories / Item</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Mark</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Date</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Weight</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Denominator</td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Quizzes</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="100"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Programming Basics</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="20"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 08,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Quiz - if</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="16"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 01,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="16"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Assignments</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="98.218"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">History of Python</span>
+        <img src="../../viewer/images/information.png" title="submitted through google class">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Aug 28,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">End of L2 - Practice 1&amp;2</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="20"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 04,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">lesson3 - Practice 1</span>
+        <img src="../../viewer/images/information.png" title="Q1 &amp; 2">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="8"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 10,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Lesson 3- operations</span>
+        <img src="../../viewer/images/information.png" title="Quiz score &amp; digits">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 10,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">MadLibs</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 17,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Square with diagonal a</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 19,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Counting coins</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 19,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">In-Class-Your name- turtle</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Oct 30,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 1-Variables/Operations-IO</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="16.75"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 11,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="7"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="17"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Projects</span>
+        <img src="../../viewer/images/information.png" title="Including Unit Tests">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="98.333"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="50"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Unit Test</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="29.5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 08,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="100"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="30"></td>
+    </tr>
+  </tbody>
+
+  <tbody><tr>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold">Categories / Item</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Mark</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Date</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Weight</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Denominator</td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Quizzes</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="100"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Programming Basics</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="20"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 08,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Quiz - if</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="16"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 01,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="16"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Assignments</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="98.218"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">History of Python</span>
+        <img src="../../viewer/images/information.png" title="submitted through google class">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Aug 28,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">End of L2 - Practice 1&amp;2</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="20"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 04,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">lesson3 - Practice 1</span>
+        <img src="../../viewer/images/information.png" title="Q1 &amp; 2">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="8"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 10,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Lesson 3- operations</span>
+        <img src="../../viewer/images/information.png" title="Quiz score &amp; digits">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 10,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">MadLibs</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 17,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Square with diagonal a</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 19,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Counting coins</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Sep 19,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">In-Class-Your name- turtle</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Oct 30,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="1"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 1-Variables/Operations-IO</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="16.75"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 11,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="7"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="17"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Projects</span>
+        <img src="../../viewer/images/information.png" title="Including Unit Tests">
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="98.333"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="50"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Unit Test</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="29.5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Nov 08,  2019</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="100"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="30"></td>
+    </tr>
+  </tbody>
+
+  <tbody><tr>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold">Categories / Item</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Mark</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Date</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Weight</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Denominator</td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Quizzes</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="91.895"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Functions Basics</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="18"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Mar 05,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="19"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Modules</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="9"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Mar 05,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Assignments</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="97.222"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Introduction to Function</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="15"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Feb 07,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="8"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="16"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 2 - More Functions</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="30"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="30"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Modules</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Projects</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center">Feb 07,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="50"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+  </tbody>
+
+  <tbody><tr>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold">Categories / Item</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Mark</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Date</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Weight</td>
+      <td class="mwTABLE_CELL_HEADER tdAchievement" style="font-weight: bold" align="center">Denominator</td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Quizzes</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value="89.474"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Quiz List - Quizzizz</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value="17"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 03,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="2"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="19"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Quiz 1 - Data Structures</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">Jun 07,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="3"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Quiz 2 - More Data Structures</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="15"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Assignments</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="25"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 1- Lists &amp; Tuples</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="15"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 2- Slicing &amp; Comprehension</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="14"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 3 - Dictionaries</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="17"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 4-Data Structures &amp; Functions</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="20"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Assignment 5 - Two dimensional data structures</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="5"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="18"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;width: 300px;">
+        <span style="margin-left: 0px">Projects</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="50"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: #f0fff0" align="center"><input min="0" type="number" value="100"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Conways Game of Life</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="40"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="50"></td>
+    </tr>
+    <tr>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;width: 300px;">
+        <span style="margin-left: 40px">Conways - Presentations</span>
+      </td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: ;color: " title="" align="center"><input min="0" type="number" value=""></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center">May 04,  2020</td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+      <td class="mwTABLE_CELL_A tdAchievement" style="background-color: " align="center"><input min="0" type="number" value="10"></td>
+    </tr>
+  </tbody>
